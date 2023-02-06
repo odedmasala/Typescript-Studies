@@ -1,4 +1,4 @@
-let appId = 'abc';
+// let appId = 'abc';
 const button = document.querySelector('button')!;
 
 function add(n1: number, n2: number) {
